@@ -68,6 +68,6 @@ These results demonstrate the effectiveness of the implemented algorithms in acc
 ## GUI
 We had created a webpage(only front-end) to display the workflow and results of our project at the time of presenting it.
 
-## Contributing
+## Contribution 
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, please open an issue or submit a pull request.
